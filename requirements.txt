@@ -1,0 +1,5 @@
+streamlit>=1.61.1
+altair
+orange3==3.41.0
+pandas
+numpy
